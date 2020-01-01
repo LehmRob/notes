@@ -1,0 +1,5 @@
+# Network
+
+## Interesting Links
+
+  * [Linux virtual networking](https://developers.redhat.com/blog/2018/10/22/introduction-to-linux-interfaces-for-virtual-networking/)
