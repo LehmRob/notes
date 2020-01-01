@@ -5,4 +5,4 @@ little howtos and for notes.
 
 # Index
 
-  * [Network related stuff](https://github.com/lehmrob/notes/blob/branch/network.md)
+  * [Network related stuff](https://github.com/lehmrob/notes/blob/master/network.md)
