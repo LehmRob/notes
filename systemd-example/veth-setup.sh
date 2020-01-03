@@ -13,6 +13,7 @@ start_configuration() {
     ip link add veth1s type veth peer name veth1
     ip link set veth1s up
     ip link set veth1s master br0
+    ip link set dev veth1 address a2:0a:73:3d:62:03
     ip link set veth1 up
     # TODO Network setup HERE
 }
